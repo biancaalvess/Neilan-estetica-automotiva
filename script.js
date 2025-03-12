@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
     
     // Função para copiar chave PIX
     function copyPixKey() {
-        const pixKey = "(75) 99957-7306"; // Chave PIX do seu código HTML
+        const pixKey = "12960037000140"; // Chave PIX do seu código HTML
         
         // Tentar usar a API Clipboard moderna
         if (navigator.clipboard) {
