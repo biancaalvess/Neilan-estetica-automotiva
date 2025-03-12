@@ -75,7 +75,7 @@
         if (copyPixBtn) {
         copyPixBtn.addEventListener("click", () => {
             // Copiar a chave PIX para a área de transferência
-            const pixKey = "75999573706"
+            const pixKey = "12960037000140"
     
             navigator.clipboard
             .writeText(pixKey)
