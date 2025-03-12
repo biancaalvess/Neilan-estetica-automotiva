@@ -155,6 +155,7 @@ nav ul li a.active {
   font-size: 2.2rem;
   margin-bottom: 15px;
   font-weight: 700;
+  color:#d4af37 ;
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para melhorar a legibilidade */
 }
 
