@@ -12,14 +12,15 @@
         <!-- Menu de navegação -->
         <nav>
             <ul>
-                <li><a href="#servicos" class="active">Serviços</a></li>
-                <li><a href="#galeria">Galeria</a></li>
-                <li><a href="#contato">Contato</a></li>
+                <li><a href="#inicio" class="active">Inicio</a></li>
+                <li><a href="#servicos">Serviços</a></li>
+                <li><a href="#galeria">Clientes</a></li>
+                <li><a href="#agendar">Contato</a></li>
             </ul>
         </nav>
 
         <!-- Banner principal -->
-        <div class="banner">
+        <div id="inicio" class="banner">
             <div class="logo-background"></div>
             <div class="banner-content">
                 <h1>Neilan Estética Automotiva</h1>
@@ -37,7 +38,7 @@
                 <div class="services-grid">
                     <div class="service-card">
                         <div class="service-img">
-                            <img src="https://blog.usecarbrasil.com.br/wp-content/uploads/2022/06/polimento-automotivo-para-que-serve.jpg" alt="Polimento">
+                            <img src="img/76.jpeg" alt="Polimento">
                         </div>
                         <div class="service-info">
                             <h4>Polimento</h4>
@@ -48,7 +49,7 @@
                     
                     <div class="service-card">
                         <div class="service-img">
-                            <img src="https://img0.icarros.com/dbimg/imgnoticia/4/28431_1" alt="Cristalização">
+                            <img src="img/73.jpeg" alt="Cristalização">
                         </div>
                         <div class="service-info">
                             <h4>Cristalização e Vitrificação</h4>
@@ -118,10 +119,10 @@
 
         <!-- Galeria de fotos -->
         <section id="galeria" class="section">
-            <h2 class="section-title">Galeria</h2>
+            <h2 class="section-title">Clientes</h2>
             <div class="gallery-container">
                 <div class="gallery-item">
-                    <img src="img/71.jpeg" alt="Trabalho 1" onclick="openModal(this)">
+                    <img src="img/75.jpeg" alt="Trabalho 1" onclick="openModal(this)">
                 </div>
                 <div class="gallery-item">
                     <img src="img/62.jpeg" alt="Trabalho 2" onclick="openModal(this)">
@@ -143,6 +144,9 @@
                 </div>
                 <div class="gallery-item">
                     <img src="img/70.jpeg" alt="Trabalho 6" onclick="openModal(this)">
+                </div>
+                <div class="gallery-item">
+                    <img src="img/71.jpeg" alt="Trabalho 7" onclick="openModal(this)">
                 </div>
             </div>
         </section>
@@ -230,7 +234,7 @@
         <footer>
             <div class="footer-content">
                 <img src="img/logo.png" alt="Neilan Estética Automotiva" class="footer-logo">
-                <p>© 2025 Neilan Estética Automotiva</p>
+                <p>© 2025 Neilan Estética Automotiva - Todos os Direitos Reservados.</p>
                 <p>Desenvolvido por Bianca Alves</p>
             </div>
         </footer>
@@ -273,6 +277,11 @@
             <div class="modal-body">
                 <div class="pix-info">
 
+                    <div class="modal-body">
+                        <div class="pix-info">
+                            <div class="pix-qrcode">
+                                <img src="img/qrcode-pix.png" alt="QR Code PIX">
+                            </div>
                     <div class="pix-details">
                         <p><strong>Tipo:</strong> CNPJ</p>
                         <p><strong>Chave:</strong> 12.960.037/0001-40</p>
