@@ -27,7 +27,7 @@ The website is hosted and can be accessed through the following link:
 
 ## 📞Contact
 
-If you have any questions or suggestions, please contact us by phone: ** 75 9957-7306 ** or visit our social networks.
+If you have any questions or suggestions, please contact us by phone: **75 9957-7306** or visit our social networks.
 
 ---
 ** Developed with 💙 for Neilan Estética Automotiva.**
