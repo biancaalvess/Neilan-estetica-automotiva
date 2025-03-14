@@ -65,7 +65,7 @@ O site está hospedado e pode ser acessado pelo seguinte link:
 
 ## 📞 Contato
 
-Caso tenha dúvidas ou sugestões, entre em contato pelo telefone: ** 75 9957-7306 ** ou acesse nossas redes sociais.
+Caso tenha dúvidas ou sugestões, entre em contato pelo telefone: **75 9957-7306** ou acesse nossas redes sociais.
 
 ---
 **Desenvolvido com 💙 para Neilan Estética Automotiva.**
