@@ -1,6 +1,6 @@
 # 🚗 Neilan Estética Automotiva
 
-Neilan Automotive Aesthetics. This project was developed to present the company's services, provide institutional information and facilitate contact with customers quickly and efficiently.
+ This project was developed to present the company's services, provide institutional information and facilitate contact with customers quickly and efficiently.
 
 ## 🌟 Features
 
